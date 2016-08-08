@@ -7,3 +7,6 @@ http://www.census.gov/prod/cen2010/briefs/c2010br-02.pdf
 
 Gender data retrieved from Telegraph reporting on Facebook Choices on 8/2/16:
 http://www.telegraph.co.uk/technology/facebook/10930654/Facebooks-71-gender-options-come-to-UK-users.html
+
+Sexual Orientation data retrieved from Wikipedia on 8/2/16:
+https://en.wikipedia.org/wiki/Sexual_orientation
